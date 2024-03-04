@@ -128,7 +128,6 @@ nav {
 
 /*About me*/
 #about-me {
-  min-width: 100vh;
   display: flex;
   flex-direction: column;
 }
